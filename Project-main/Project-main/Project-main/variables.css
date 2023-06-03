@@ -1,0 +1,9 @@
+/* variables.css */
+:root {
+    --primary-color: #001d66;
+    --secondary-color: #203F80;
+    --accent-color: #E4B81C;
+    --white-color: #ffff;
+    --black-color: #000;
+    --shadow: 2px 3px 1px black
+  }

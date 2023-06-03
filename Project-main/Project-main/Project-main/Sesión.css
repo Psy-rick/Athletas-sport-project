@@ -1,0 +1,23 @@
+*{
+
+    background-color: #bebebe;
+}
+
+body{
+    border: 15px;
+    margin: 15px;
+    padding: 25px; 
+}
+
+.container{
+    background: linear-gradient(#001C65, rgb(91, 76, 253)); height: 600px; 
+
+    padding: 50px;
+   
+}
+
+
+form{
+
+    padding: 50px;
+}
